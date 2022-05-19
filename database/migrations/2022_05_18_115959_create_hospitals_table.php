@@ -21,7 +21,8 @@ return new class extends Migration
         });
     }
 
-    /**
+    /**ssh-keygen -t rsa -b 4096 -C hajer.ghinnewah@gmail
+
      * Reverse the migrations.
      *
      * @return void
